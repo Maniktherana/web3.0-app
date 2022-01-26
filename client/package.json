@@ -1,5 +1,5 @@
 {
-  "name": "koint",
+  "name": "koin",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -7,14 +7,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^9.8.8",
+    "ethers": "^5.5.3",
+    "postcss": "^7.0.39",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.16",
     "vite": "^2.7.2"
   }
 }
