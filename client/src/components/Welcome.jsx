@@ -30,8 +30,8 @@ const Welcome = () => {
 
     return (
         <div className="flex w-full justify-center items-center">
-            <div className="flex md:flex row flex-col items-start justify-between md:p-20 py-12 px-4">
-                <div className="flex flex-1 justify-start flex-col md:mr-10">
+            <div className="flex mf:flex row flex-col items-start justify-between md:p-20 py-12 px-4">
+                <div className="flex flex-1 justify-start flex-col mf:mr-10">
                     <h1 className="text-3xl sm:text-5xl text white text-gradient py-1">
                         Send Crypto <br /> Around the World
                     </h1>
@@ -67,7 +67,7 @@ const Welcome = () => {
                         </div>
                     </div>
 
-                    <div className="flex flex-col flex-1 items-center justify-start w-full md:mt-0 mt-10">
+                    <div className="flex flex-col flex-1 items-center justify-start w-full mf:mt-0 mt-10">
                         <div className="p-3 justify-end items-start flex-col rounded-xl h-40 sm:w-72 w-full mt-5 eth-card white-glassmorpism">
                             <div className="flex justify-between flex-col w-full h-full">
                                 <div className="flex justify-between items-start">
