@@ -64,12 +64,12 @@ body {
   background-color:#a099ff;
   background-image: 
     radial-gradient(at 83% 67%, rgb(57, 226, 161) 0, transparent 58%), 
-    radial-gradient(at 67% 20%, rgb(6, 156, 68) 0, transparent 59%), 
+    radial-gradient(at 67% 20%, #0fbd75 0, transparent 59%), 
     radial-gradient(at 88% 35%, rgb(68, 139, 40) 0, transparent 50%), 
-    radial-gradient(at 31% 91%, rgb(126, 61, 180) 0, transparent 52%), 
-    radial-gradient(at 27% 71%, rgb(144, 38, 185) 0, transparent 49%), 
-    radial-gradient(at 74% 89%, rgb(106, 8, 126) 0, transparent 51%), 
-    radial-gradient(at 53% 75%, rgb(201, 97, 250) 0, transparent 45%);
+    radial-gradient(at 31% 91%, #9945FF 0, transparent 52%), 
+    radial-gradient(at 27% 71%, #882afa 0, transparent 49%), 
+    radial-gradient(at 74% 89%, #6f00f7 0, transparent 51%), 
+    radial-gradient(at 53% 75%, #5e09c5 0, transparent 45%);
 }
 
 .text-gradient {

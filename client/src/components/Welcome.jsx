@@ -41,9 +41,9 @@ const Welcome = () => {
                     <button 
                         type="button"
                         onClick={connectWallet} 
-                        className="flex flex-row justify-center items-center my-5 bg-blue-800 p-3 rounded-full cursor-pointer hover:bg-blue-600"
+                        className="flex flex-row justify-center items-center my-5 bg-[#14F195] p-3 rounded-full cursor-pointer hover:bg-slate-100"
                     >
-                        <p className="text-white text-base font-semibold">Connect Wallet</p>
+                        <p className="text-black text-base font-semibold">Connect Wallet</p>
                     </button>
 
                     <div className="grid sm:grid-cols-3 grid-cols-2 w-full mt-10">
