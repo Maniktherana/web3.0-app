@@ -13,13 +13,6 @@ This is my first web app where a user can connect a metamask wallet and send eth
 
 ### Introduction 👋
 
-## Projects 💻
-
-* Google Homepage Clone
-* Build This Page - google search clone
-* Rock Paper Scissors
-* Etch A Sketch
-* JavaScript Calculator
 
 ## Built with 🛠
 
