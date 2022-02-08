@@ -28,6 +28,7 @@ This is my first web app where a user can connect a metamask wallet and send eth
 * TailwindCSS
 * Vite
 * Hardhat
+* Ether
 
 ### Tools
 
