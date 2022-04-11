@@ -2,7 +2,7 @@
 
 This is my first web app where a user can connect a metamask wallet and send ethereum to a wallet address (🚧 updates coming soon)
 
-[Live Preview](https://web3-0-app.vercel.app/)
+### [Live Preview](https://web3-0-app.vercel.app/)
 
 - [Overview](#overview)
   - [Introduction](#introduction)
